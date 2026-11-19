@@ -1,0 +1,47 @@
+PROPRIETARY SOFTWARE LICENSE AND COPYRIGHT NOTICE
+
+Copyright (c) 2026 Matteo Casieri. All rights reserved.
+
+1. OWNERSHIP AND COPYRIGHT
+This software, including its source code, scripts, command-line interface,
+documentation, architecture, and related materials (collectively, the
+"Software"), is protected by applicable copyright and intellectual property
+laws and remains the exclusive property of Matteo Casieri. No ownership rights,
+title, or interest in the Software are transferred to any user or third party.
+
+2. PROHIBITION ON DISTRIBUTION, TRANSFER, AND COMMERCIALIZATION
+Unless expressly authorized in advance and in writing by Matteo Casieri, no
+person or entity may:
+(a) distribute, publish, mirror, sublicense, rent, lease, lend, assign, or
+    otherwise transfer the Software, in whole or in part, to any third party;
+(b) sell, resell, monetize, or commercially exploit the Software, in whole or
+    in part, whether standalone, bundled, or as part of a paid service or
+    product.
+
+3. AUTHORIZED USE, REPLICATION, AND PARTIAL REUSE
+To the extent any use, replication, adaptation, or reuse of the Software—or of
+any part, module, or snippet thereof—is permitted or occurs, such activity is
+strictly subject to retaining and prominently displaying this exact copyright
+and proprietary license notice in all copies, partial excerpts, or derivative
+works, without removing or altering the attribution to Matteo Casieri.
+
+4. LAWFUL AND AUTHORIZED TESTING SCOPE
+Any permitted testing or execution of the Software must occur strictly within
+authorized environments and in compliance with all applicable laws and
+regulations. Matteo Casieri assumes no responsibility for unlawful,
+unauthorized, or non-compliant use.
+
+5. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE
+FULLEST EXTENT PERMITTED BY APPLICABLE LAW, MATTEO CASIERI SHALL IN NO EVENT BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT,
+OR OTHERWISE, ARISING FROM OR RELATING TO THE SOFTWARE OR ITS USE OR INABILITY
+TO USE.
+
+6. SEVERABILITY AND GOVERNING LAW
+If any provision of this notice is held invalid or unenforceable under applicable
+law, the remaining provisions shall remain in full force and effect. Subject to
+mandatory statutory provisions, this notice shall be construed in accordance with
+applicable copyright and intellectual property laws.
